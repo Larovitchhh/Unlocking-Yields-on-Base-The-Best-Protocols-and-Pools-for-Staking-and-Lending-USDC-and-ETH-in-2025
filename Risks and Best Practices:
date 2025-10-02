@@ -1,0 +1,12 @@
+ Stay Safe While Yield FarmingDeFi on Base is efficient but not risk-free. Key concerns include:Smart Contract Risks: Audits mitigate but don't eliminate bugs (e.g., recent Base exploits cost $10M chain-wide). Stick to protocols with multiple audits (Aave, Moonwell).
+Liquidation/Volatility: ETH drops can trigger borrows; use <70% LTV. USDC is stabler but faces depeg risk (rare, <0.1% historically).
+Impermanent Loss: In LP pools, price divergence erodes value—avoid for pure staking.
+Centralization: cbETH relies on Coinbase; diversify across Renzo and Aave.
+Regulatory: USDC is compliant, but monitor SEC updates on DeFi.
+
+Pro Tips:Use hardware wallets (e.g., Ledger) for self-custody.
+Diversify: 40% USDC lending (Moonwell), 30% ETH staking (Renzo), 30% hybrids (Pendle).
+Monitor via DeFiLlama or Zapper; set alerts for APY drops >20%.
+Gas optimization: Batch txs during low congestion.
+Tax Note: Yields are taxable; track with Koinly.
+
