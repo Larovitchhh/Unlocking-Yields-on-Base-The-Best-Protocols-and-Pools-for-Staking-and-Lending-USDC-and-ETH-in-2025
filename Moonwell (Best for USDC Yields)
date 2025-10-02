@@ -1,0 +1,6 @@
+
+A fork of Compound, Moonwell dominates Base lending with $800M TVL. It's community-governed and optimized for stablecoins.  USDC Pool: Supply APY ~5.2%; Borrow APR 6.1%. Utilization: 85%.  
+ETH Pool: Supply APY 2.8%; supports cbETH collateral.  
+Why Best? High utilization drives yields; auto-compounding via vaults. Integrates with Harvest Finance for 15-20% looped USDC strategies.  
+Risks: Looping amplifies liquidation risk during volatility; oracle failures.
+
